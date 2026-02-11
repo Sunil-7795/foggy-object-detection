@@ -1,4 +1,4 @@
-#📌 Overview
+📌 Overview
 
 Fog significantly degrades visibility and poses a serious challenge to real-time vision-based intelligent transportation systems. This project presents a fog-aware real-time object detection framework that integrates Gray-level Density and Illumination-based Preprocessing (GDIP) with YOLOv8 to improve object detection accuracy in foggy road scenarios while maintaining real-time performance.
 
