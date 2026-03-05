@@ -1,12 +1,10 @@
 streamlit==1.32.0
-streamlit-webrtc
 opencv-python-headless
 numpy
 torch
 torchvision
 ultralytics
 altair==4.2.2
-av
 
 
 
