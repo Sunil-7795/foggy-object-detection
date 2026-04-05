@@ -1,9 +1,9 @@
-streamlit
+streamlit==1.32.0
 numpy
 pandas
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 ultralytics
-torch
-torchvision
-streamlit-webrtc
-av
+torch==2.2.2
+torchvision==0.17.2
+streamlit-webrtc==0.47.7
+av==10.0.0
