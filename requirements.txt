@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 opencv-python-headless
-ultralytics
+ultralytics==8.4.48
 torch==2.11.0
 torchvision==0.26.0
 streamlit-webrtc
