@@ -204,12 +204,11 @@ The proposed GDIP-YOLOv8 framework aims to improve object detection in foggy roa
 - **Advanced Evaluation:** Evaluate performance across different fog densities and real-world driving scenarios.
 ## 👩‍💻 Authors
 
-This project was developed by the following team members:
 
-- **Sunil**
-- **Mamatha Kumari Singh**
-- **Varun A R**
-- **Vinod S Toravi**
+- [Sunil](https://github.com/Sunil-7795)
+- [Mamatha Kumari Singh](https://github.com/GITHUB_USERNAME_3)
+- [Varun A R](https://github.com/GITHUB_USERNAME_4)
+- [Vinod S Toravi](https://github.com/GITHUB_USERNAME_5)
 
 ## 📜 License
 
